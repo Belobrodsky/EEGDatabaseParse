@@ -6,3 +6,5 @@ h:\Белобродский\PHD\EEGDatabaseParse\EEGParse\obj\Debug\EEGParse.Pro
 h:\Белобродский\PHD\EEGDatabaseParse\EEGParse\obj\Debug\EEGParse.csproj.GenerateResource.Cache
 h:\Белобродский\PHD\EEGDatabaseParse\EEGParse\obj\Debug\EEGParse.exe
 h:\Белобродский\PHD\EEGDatabaseParse\EEGParse\obj\Debug\EEGParse.pdb
+H:\Белобродский\PHD\EEGDatabaseParse\EEGParse\obj\Debug\EEGParse.csprojResolveAssemblyReference.cache
+H:\Белобродский\PHD\EEGDatabaseParse\EEGParse\obj\Debug\EEGParse.Form1.resources
