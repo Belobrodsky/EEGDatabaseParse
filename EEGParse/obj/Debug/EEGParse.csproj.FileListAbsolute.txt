@@ -1,0 +1,8 @@
+H:\Белобродский\PHD\EEGDatabaseParse\EEGParse\EEGParse\bin\Debug\EEGParse.exe.config
+h:\Белобродский\PHD\EEGDatabaseParse\EEGParse\bin\Debug\EEGParse.exe.config
+h:\Белобродский\PHD\EEGDatabaseParse\EEGParse\bin\Debug\EEGParse.exe
+h:\Белобродский\PHD\EEGDatabaseParse\EEGParse\bin\Debug\EEGParse.pdb
+h:\Белобродский\PHD\EEGDatabaseParse\EEGParse\obj\Debug\EEGParse.Properties.Resources.resources
+h:\Белобродский\PHD\EEGDatabaseParse\EEGParse\obj\Debug\EEGParse.csproj.GenerateResource.Cache
+h:\Белобродский\PHD\EEGDatabaseParse\EEGParse\obj\Debug\EEGParse.exe
+h:\Белобродский\PHD\EEGDatabaseParse\EEGParse\obj\Debug\EEGParse.pdb
