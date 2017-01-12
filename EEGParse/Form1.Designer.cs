@@ -30,6 +30,8 @@
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.открытьСостоянияCRVToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
+            this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -48,6 +50,12 @@
             this.открытьСостоянияCRVToolStripMenuItem.Name = "открытьСостоянияCRVToolStripMenuItem";
             this.открытьСостоянияCRVToolStripMenuItem.Size = new System.Drawing.Size(151, 20);
             this.открытьСостоянияCRVToolStripMenuItem.Text = "Открыть состояния CRV";
+            this.открытьСостоянияCRVToolStripMenuItem.Click += new System.EventHandler(this.открытьСостоянияCRVToolStripMenuItem_Click);
+            // 
+            // openFileDialog1
+            // 
+            this.openFileDialog1.FileName = "openFileDialog1";
+            this.openFileDialog1.Multiselect = true;
             // 
             // Form1
             // 
@@ -69,6 +77,8 @@
 
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem открытьСостоянияCRVToolStripMenuItem;
+        private System.Windows.Forms.OpenFileDialog openFileDialog1;
+        private System.Windows.Forms.SaveFileDialog saveFileDialog1;
     }
 }
 
